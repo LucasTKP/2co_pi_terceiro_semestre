@@ -1,5 +1,5 @@
 <h1 align="center">2CO</h1>
-<p align="center">Aplicação cujo objetivo é organizar tarefas(ToDos) de uma equipe de desenvolvimento, este projeto foi desenvolvido como um trabalho no terceiro semestre do desenvolvimento de software multiplataforma da fatec de Franca</p> <br />
+<p align="center">Aplicação cujo objetivo é organizar tarefas(ToDos) de uma equipe de desenvolvimento, este projeto foi desenvolvido como um trabalho no terceiro semestre do desenvolvimento de software multiplataforma da fatec de Franca.</p> <br />
 
 ### 🔗 Links:
 <a href="https://github.com/LucasTKP/2co">Github - Front-End</a></br>
