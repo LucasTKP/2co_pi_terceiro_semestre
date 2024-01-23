@@ -28,8 +28,6 @@ Fazer o trabalho interdisciplinar do terceiro semestre da faculdade de desenvolv
 
 - Next Js
 - Tailwind
-- Css
-- JavaScript
 - Node Js
 - Prisma
   <br /> <br />
