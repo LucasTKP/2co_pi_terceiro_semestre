@@ -34,9 +34,11 @@ Fazer o trabalho interdisciplinar do terceiro semestre da faculdade de desenvolv
 
 ### 📷 Tela principal:
 <div align="center">
-  <a href="https://projectdoctorcare.vercel.app/">
-    <img src="imageProject.png" alt="Preview 2CO">
-  </a>
+
+
+https://github.com/LucasTKP/2co_pi_terceiro_semestre/assets/101598532/6e180060-78d2-4624-a0d5-4ddaa2b2d68e
+
+
 </div>
 
 <br />
